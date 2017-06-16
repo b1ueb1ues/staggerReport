@@ -1,0 +1,7 @@
+## Interface: 70200
+## Version: 1.1
+## Title: StaggerReport
+## Notes: StaggerReport
+## Author: @hjg719-NGA
+
+StaggerReport.lua
